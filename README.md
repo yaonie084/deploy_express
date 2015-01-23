@@ -1,4 +1,4 @@
-## Deploy Expressjs Project [![Build Status](https://travis-ci.org/vysheng/tg.png)]
+## Deploy Expressjs Project ![Build Status](https://travis-ci.org/vysheng/tg.png)
 
 Use [Capistrano](https://github.com/capistrano/capistrano) to deploy expressjs project. Uses readline interface.
 
