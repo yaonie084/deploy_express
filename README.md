@@ -4,6 +4,6 @@ Command-line interface for [Telegram](http://telegram.org). Uses readline interf
 
 #### Guide
 
-**1:** rename production.rb.sample to production.rb
-**2:** config your hosts to production.rb
-**3:** config the deploy.rb
+* rename production.rb.sample to production.rb
+* config your hosts to production.rb
+* config the deploy.rb
