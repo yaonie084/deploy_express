@@ -1,6 +1,6 @@
-## Deploy Expressjs Project [![Build Status](https://travis-ci.org/vysheng/tg.png)](https://travis-ci.org/vysheng/tg)
+## Deploy Expressjs Project [![Build Status](https://travis-ci.org/vysheng/tg.png)]
 
-Command-line interface for [Telegram](http://telegram.org). Uses readline interface.
+Use [Capistrano](https://github.com/capistrano/capistrano) to deploy expressjs project. Uses readline interface.
 
 #### Guide
 
